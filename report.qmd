@@ -1,6 +1,6 @@
 ---
 title: "EV Power - Lab 4 Project Report"
-format: typst
+format: pdf
 ---
 
 # Example Solution 1
@@ -13,7 +13,10 @@ format: typst
 
 ## **Part 1:** **Defining Research Question**
 
-Chosen Question:
+Chosen Question: How does the percentage of renewable energy used to generate electricity vary across different states?
+
+
+
 
 ## **Part 2: Data Preparation and Cleaning**
 
